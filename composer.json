@@ -1,5 +1,5 @@
 {
-	"name":"Sascha-Brandhoff/count_ce",
+	"name":"sascha-brandhoff/count_ce",
 	"description":"Create a VCard Effect with Contao",
 	"keywords":["contao","counter", "jquery"],
 	"type":"contao-module",
