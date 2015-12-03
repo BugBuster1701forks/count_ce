@@ -23,7 +23,7 @@
 		"contao/core": ">=3.4,<3.5"
 	},
 	"replace":{
-		"Sascha-Brandhoff/count_ce":"self.version"
+		"sascha-brandhoff/count_ce":"self.version"
 	},
 	"extra":{
 		"contao":{
